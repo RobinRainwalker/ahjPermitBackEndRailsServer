@@ -1,0 +1,65 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Name: MyString
+  State__c: MyString
+  County__c: MyString
+  Building_Department_Address__c: MyString
+  Building_Department_Contact__c: MyString
+  Building_Department_Website__c: MyString
+  Building_Inspection_Summary__c: MyString
+  Permit_Approved_Mean__c: MyString
+  Permit_Received_Min__c: MyString
+  Permit_Scopes__c: MyString
+  Permitting_Hours__c: MyString
+  Permit_Fee__c: MyString
+  Roof_Clearance_Notes__c: MyString
+  Planset_Copies_Required__c: MyString
+  Additional_Permit_Notes__c: MyString
+  Secondary_Phone__c: MyString
+  Zoning_Office_Phone__c: MyString
+  AHJ_Email__c: MyString
+  AHJ_Notes__c: MyString
+  AHJ_Summary__c: MyString
+  Code__c: MyString
+  GIS_Portal__c: MyString
+  Fire_Marshal_Contact__c: MyString
+  Fire_Department_Phone__c: MyString
+  Fire_Department_Address__c: MyString
+  Online_Permitting_Required__c: MyString
+  Primary_Phone__c: MyString
+  X48_Hour_Notice__c: MyString
+  Extension__c: MyString
+  Electrical_Inspection_Notes__c: MyString
+
+two:
+  Name: MyString
+  State__c: MyString
+  County__c: MyString
+  Building_Department_Address__c: MyString
+  Building_Department_Contact__c: MyString
+  Building_Department_Website__c: MyString
+  Building_Inspection_Summary__c: MyString
+  Permit_Approved_Mean__c: MyString
+  Permit_Received_Min__c: MyString
+  Permit_Scopes__c: MyString
+  Permitting_Hours__c: MyString
+  Permit_Fee__c: MyString
+  Roof_Clearance_Notes__c: MyString
+  Planset_Copies_Required__c: MyString
+  Additional_Permit_Notes__c: MyString
+  Secondary_Phone__c: MyString
+  Zoning_Office_Phone__c: MyString
+  AHJ_Email__c: MyString
+  AHJ_Notes__c: MyString
+  AHJ_Summary__c: MyString
+  Code__c: MyString
+  GIS_Portal__c: MyString
+  Fire_Marshal_Contact__c: MyString
+  Fire_Department_Phone__c: MyString
+  Fire_Department_Address__c: MyString
+  Online_Permitting_Required__c: MyString
+  Primary_Phone__c: MyString
+  X48_Hour_Notice__c: MyString
+  Extension__c: MyString
+  Electrical_Inspection_Notes__c: MyString
